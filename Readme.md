@@ -8,6 +8,13 @@ For inquiries, collaborations, or support, feel free to reach out:
 
 [![Telegram Contact](https://img.shields.io/badge/Telegram-Contact%20Me-blue?logo=telegram&style=for-the-badge)](https://t.me/cashblaze127)
 
+
+### Example Transactions
+
+- **Migration Detection**: [3R6CiRTNfu1BZ4LsxWTv1GdE4hP92pnEenDLjiiVAecbiYLGgPLUVhg4gwiFJp872mbyA1hKfF18q2R5neN2wAwj](https://solscan.io/tx/3R6CiRTNfu1BZ4LsxWTv1GdE4hP92pnEenDLjiiVAecbiYLGgPLUVhg4gwiFJp872mbyA1hKfF18q2R5neN2wAwj)
+- **Buy Execution**: [G6yx9N4w1MKHUkYhKXokjf4BWkZNGUyTY5o1T1MAjua1ZzWdFTjGM6zus8UBBKJfsJQ1S3g1gREhHZeX7V8qawx](https://solscan.io/tx/G6yx9N4w1MKHUkYhKXokjf4BWkZNGUyTY5o1T1MAjua1ZzWdFTjGM6zus8UBBKJfsJQ1S3g1gREhHZeX7V8qawx)
+
+
 ## 🚀 Overview
 
 The Pumpswap Sniper Bot is engineered to monitor Pumpswap migration events in real-time and execute buy transactions within the same block. By utilizing advanced blockchain monitoring techniques, the bot can detect migration events and place trades before other market participants, providing a significant competitive advantage.
@@ -30,11 +37,6 @@ The Pumpswap Sniper Bot is engineered to monitor Pumpswap migration events in re
 5. **Profit Realization**: Successful execution results in immediate position acquisition at favorable prices
 
 ## 📊 Performance Metrics
-
-### Example Transactions
-
-- **Migration Detection**: [3R6CiRTNfu1BZ4LsxWTv1GdE4hP92pnEenDLjiiVAecbiYLGgPLUVhg4gwiFJp872mbyA1hKfF18q2R5neN2wAwj](https://solscan.io/tx/3R6CiRTNfu1BZ4LsxWTv1GdE4hP92pnEenDLjiiVAecbiYLGgPLUVhg4gwiFJp872mbyA1hKfF18q2R5neN2wAwj)
-- **Buy Execution**: [G6yx9N4w1MKHUkYhKXokjf4BWkZNGUyTY5o1T1MAjua1ZzWdFTjGM6zus8UBBKJfsJQ1S3g1gREhHZeX7V8qawx](https://solscan.io/tx/G6yx9N4w1MKHUkYhKXokjf4BWkZNGUyTY5o1T1MAjua1ZzWdFTjGM6zus8UBBKJfsJQ1S3g1gREhHZeX7V8qawx)
 
 ## 🛠️ Prerequisites
 
